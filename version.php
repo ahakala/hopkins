@@ -15,7 +15,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Moodle's Clean theme, an example of how to make a Bootstrap theme
+ * This is a copy of the Moodle Clean Theme that has been optimized for use 
+ * in Hopkins Public Schools. We have modified the colors to suit our needs 
+ * as well as condensing some of the line height and font sizes to acheive
+ * a more compact look and feel. 
  *
  * DO NOT MODIFY THIS THEME!
  * COPY IT FIRST, THEN RENAME THE COPY AND MODIFY IT INSTEAD.
@@ -30,7 +33,7 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2013050100;
+$plugin->version   = 2013111700;
 $plugin->requires  = 2013050100;
 $plugin->component = 'theme_hopkins';
 $plugin->dependencies = array(
