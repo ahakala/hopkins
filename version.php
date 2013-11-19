@@ -33,7 +33,7 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2013111700;
+$plugin->version   = 2013111900;
 $plugin->requires  = 2013050100;
 $plugin->component = 'theme_hopkins';
 $plugin->dependencies = array(
